@@ -1,5 +1,4 @@
-# authentication script example with [one-time password](https://en.wikipedia.org/wiki/One-time_password)
-for OpenVPN
+# authentication script example with [one-time password](https://en.wikipedia.org/wiki/One-time_password) for OpenVPN
 
 
 ### need to add to OpenVPN config
