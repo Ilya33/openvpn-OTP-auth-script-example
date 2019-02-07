@@ -1,7 +1,7 @@
 # authentication script example with [one-time password](https://en.wikipedia.org/wiki/One-time_password) for OpenVPN
 
 
-### need to add to OpenVPN config
+need to add to OpenVPN config:
 
 ```
 auth-user-pass-verify /PATH_TO_SCRIPT/openvpn_oath_verify.pl via-file
